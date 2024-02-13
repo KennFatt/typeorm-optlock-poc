@@ -7,5 +7,7 @@
     "moduleResolution": "nodenext",
     "baseUrl": "src",
     "outDir": "dist",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
   },
 }

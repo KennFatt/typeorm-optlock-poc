@@ -1,5 +1,5 @@
 {
-  "name": "ts-template",
+  "name": "typeorm-optlock-poc",
   "version": "0.0.1",
   "description": "",
   "type": "module",
@@ -13,5 +13,9 @@
   "devDependencies": {
     "@types/node": "^18.15.5",
     "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "typeorm": "^0.3.20"
   }
 }
